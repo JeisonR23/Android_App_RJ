@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task App</string>
+    <string name="open_nav">Open TaskApp</string>
+    <string name="close_name"> Close TaskApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="server_url">http://172.20.1.193:3000/uploads</string>
+
+</resources>
